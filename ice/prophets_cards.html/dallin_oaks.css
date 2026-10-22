@@ -1,0 +1,33 @@
+h1{
+    color:#FFFfFE;
+    font-family:'Helvetica', sans-serif;
+}
+body{
+    background-color: #ffe3c4;
+}
+main{
+    border: 4px solid #004E63;
+    color: #008db1;
+    border-radius: 25px;
+    max-width: 200;
+    border-color: 25px;
+    text-align: center;
+    padding: 20px;
+    margin: 450px;
+    background-color: #15a6ce;
+}
+p{
+    color: #e8fbff;
+    font-family: 'helvetica', sans-serif;
+}
+li{
+    color: #f1f2f3;
+    font-family: 'helvetica', sans-serif;
+}
+h4{
+    color: #ffd783;
+    font-family: 'brush script MT', cursive;
+}
+img{
+    border: 4px solid white;
+}
