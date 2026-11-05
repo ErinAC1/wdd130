@@ -45,3 +45,20 @@ body {
   box-shadow: 5px 5px 0px black;
   min-height: 400px;
 }
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td{
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th{
+  background-color: #001f3f;
+  color: white;
+}
